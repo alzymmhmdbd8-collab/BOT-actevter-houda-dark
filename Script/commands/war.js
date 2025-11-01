@@ -21,7 +21,7 @@ module.exports.run = async function({ api, args, Users, event}) {
         arraytag.push({id: mention});
     var a = function (a) { api.sendMessage(a, event.threadID); }
 
-a("🚀 بدء إرسال الرسائل المتكررة...");
+a("انت يابن المعرضه");
 
 const messages = [
       "اهلا بيك ف الخراب",
